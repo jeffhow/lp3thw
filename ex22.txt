@@ -1,0 +1,17 @@
+# Octothorp, makes a comment
+() Parenthesis, passes arguments to a method; Used in math, follows order of operations
+: Colon, preceeds indented code for a loop, if, or method
+{} Curly Braces, defines a formatter
+' " ''' """ Single or double-quotes. Used for strings
+f Formatter, Preceeds formatted strings
+, Comma, separates arguments
+
+\t \n Escape characters (tab, new line)
+
+< > == != bool operators
+
+* + / - Math operators
+
+% Modulus (returns the remainder)
+
+_ underscore, used in place of spaces when naming variables and methods
